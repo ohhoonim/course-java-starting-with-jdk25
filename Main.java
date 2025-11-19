@@ -20,29 +20,22 @@ static class Computer {
 
     // 2. Builder 클래스 (정적 중첩 클래스): 내부적으로 Product를 생성
     public static class Builder {
-        // Product와 동일한 필드를 가집니다 (Builder 패턴의 데이터 컨테이너 역할).
-        // 필수 요소는 생성자에서 초기화합니다.
+        
         private final String cpu;
         private final int ramGB;
 
-        // 선택 요소는 기본값 또는 null로 초기화합니다.
         private String screenResolution = "미설정";
 
-        // Builder의 생성자는 필수로 필요한 매개변수만 받습니다.
         public Builder(String cpu, int ramGB) {
-            this.cpu = cpu;
-            this.ramGB = ramGB;
+            this.cpu = cpu; this.ramGB = ramGB;
         }
 
-        // 3. 부품별 생성 메소드 (선택적): 자기 자신(this)을 반환하여 메서드 체이닝 가능
         public Builder setScreenResolution(String resolution) {
             this.screenResolution = resolution;
             return this;
         }
 
-        // 4. 최종 Product 생성 메소드
         public Computer build() {
-            // Builder 객체를 Product의 private 생성자에 넘겨 최종 객체 생성
             return new Computer(this);
         }
     }
