@@ -1,0 +1,188 @@
+{
+  "main": {
+    "id": "8fe7320973085f7a",
+    "type": "split",
+    "children": [
+      {
+        "id": "0c50986cf3abe8e8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7c961b50e776e26c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Part2-Spring/07 스프링 웹애플리케이션 기초/07.01 스프링 프레임워크와 부트.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "07.01 스프링 프레임워크와 부트"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c6d13f28ad446179",
+    "type": "split",
+    "children": [
+      {
+        "id": "276a1ab9923cdc7a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dd77b292280ee5ed",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "ba9cce0af6e5730f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "0d60020eeecf1d85",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "북마크"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b20e04f138f1a471",
+    "type": "split",
+    "children": [
+      {
+        "id": "79178621626a252d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6354c825e73cf199",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Part2-Spring/07 스프링 웹애플리케이션 기초/07.01 스프링 프레임워크와 부트.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "07.01 스프링 프레임워크와 부트 의 백링크"
+            }
+          },
+          {
+            "id": "1f2a3b7fd02549d1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Part2-Spring/07 스프링 웹애플리케이션 기초/07.01 스프링 프레임워크와 부트.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "07.01 스프링 프레임워크와 부트 의 나가는 링크"
+            }
+          },
+          {
+            "id": "21c3e2423e42633a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "태그"
+            }
+          },
+          {
+            "id": "e88cb4bf17d5aea8",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "모든 속성"
+            }
+          },
+          {
+            "id": "a147a220f6f34097",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Part2-Spring/07 스프링 웹애플리케이션 기초/07.01 스프링 프레임워크와 부트.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "07.01 스프링 프레임워크와 부트 의 개요"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "bases:새 베이스 생성하기": false
+    }
+  },
+  "active": "7c961b50e776e26c",
+  "lastOpenFiles": []
+}
