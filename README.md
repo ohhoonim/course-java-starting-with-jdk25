@@ -1,22 +1,14 @@
-# JDK25로 시작하는 JAVA
+# JDK25로 시작하는 JAVA와 스프링부트 4
 
-- 코딩과 자바
-- 파일 입출력과 스레드
-- 자료구조 다루기
-- 필수 디자인 패턴
-- Dependency와 Build tools 활용
-- Unit 테스트
-- 스프링 웹애플리케이션 기초
-- 스프링 시큐리티
-- 도커
-- 스프링 데이터
-- UML과 모델 설계
-- 개발공정과 아키텍처
-- 스프링 AI 
+- Part1. Java
+- Part2. Spring
+- Part3. Design
+- Part4. Agentic
+- Part5. Appendix
 
 ## 목표
 
-- JDK25부터 스프링부트까지 단계적 실습을 통한 웹애플리케이션 개발
+- JDK25부터 스프링부트4 까지 단계적 실습을 통한 웹애플리케이션 개발
 
 ## 대상 
 
